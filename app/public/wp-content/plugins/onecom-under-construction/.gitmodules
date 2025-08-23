@@ -1,3 +1,0 @@
-[submodule "inc/lib"]
-	path = inc/lib
-	url = git@gitlab.one.com:wp-in/one.com-wp-premium-validator.git
