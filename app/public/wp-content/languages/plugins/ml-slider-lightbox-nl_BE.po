@@ -1,0 +1,75 @@
+# Translation of Plugins - MetaSlider Lightbox - Stable (latest release) in Dutch (Belgium)
+# This file is distributed under the same license as the Plugins - MetaSlider Lightbox - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-20 13:59:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: nl_BE\n"
+"Project-Id-Version: Plugins - MetaSlider Lightbox - Stable (latest release)\n"
+
+#: extendify-sdk/app/Plugin.php:80
+msgid "An unknown error occurred during installation"
+msgstr "Er is een onbekende fout opgetreden tijdens de installatie"
+
+#: extendify-sdk/app/Plugin.php:74
+msgid "There was an error installing your plugin"
+msgstr "Er trad een fout op bij het installeren van je plugin"
+
+#: extendify-sdk/app/Plugin.php:55
+msgid "You are not allowed to install plugins on this site."
+msgstr "Je hebt geen toestemming om plugins op deze website te installeren."
+
+#: extendify-sdk/app/Controllers/PluginController.php:53
+#: extendify-sdk/app/Plugin.php:34
+msgid "You are not allowed to activate plugins on this site."
+msgstr "Je hebt geen toestemming om plugins op deze website te activeren."
+
+#: class-ml-slider-lightbox.php:414
+msgctxt "Name of a plugin"
+msgid "All slides will open in a lightbox, using %s"
+msgstr "Alle slides worden geopend in een lightbox, met %s"
+
+#: class-ml-slider-lightbox.php:411
+msgid "Open in lightbox?"
+msgstr "Open in lightbox?"
+
+#: class-ml-slider-lightbox.php:405
+msgid "Edit settings"
+msgstr "Instellingen bewerken"
+
+#: class-ml-slider-lightbox.php:397
+msgid "Warning: MetaSlider Lightbox is installed but no supported lightbox plugin is active."
+msgstr "Waarschuwing: MetaSlider lightbox is geïnstalleerd maar er is geen ondersteunde lightbox plugin actief."
+
+#: class-ml-slider-lightbox.php:364
+msgid "There is more than one lightbox plugin activated. This may cause conflicts with MetaSlider Lightbox"
+msgstr "Er is meer dan één lightbox-plugin geactiveerd. Dit kan conflicten veroorzaken met MetaSlider lightbox"
+
+#: class-ml-slider-lightbox.php:353 class-ml-slider-lightbox.php:397
+msgid "More info"
+msgstr "Meer info"
+
+#: class-ml-slider-lightbox.php:353
+msgid "MetaSlider Lightbox requires MetaSlider and at least one other supported lightbox plugin to be installed and activated."
+msgstr "MetaSlider Lightbox vereist dat MetaSlider en ten minste één andere ondersteunde lightbox plugin zijn geïnstalleerd en geactiveerd."
+
+#. Author of the plugin
+msgid "MetaSlider"
+msgstr "MetaSlider"
+
+#. Description of the plugin
+msgid "Adds lightbox plugin integration to MetaSlider. Requires MetaSlider and one compatible lightbox plugin to be installed and activated."
+msgstr "Voegt lightbox plugin integratie toe aan MetaSlider. Vereist dat MetaSlider en een compatibele lightbox-plugin zijn geïnstalleerd en geactiveerd."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.metaslider.com"
+msgstr "https://www.metaslider.com"
+
+#. Plugin Name of the plugin
+msgid "MetaSlider Lightbox"
+msgstr "MetaSlider Lightbox"

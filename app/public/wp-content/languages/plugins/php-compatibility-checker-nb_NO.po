@@ -1,0 +1,155 @@
+# Translation of Plugins - PHP Compatibility Checker - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - PHP Compatibility Checker - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-08 13:40:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - PHP Compatibility Checker - Stable (latest release)\n"
+
+#: lib/class-php-compatibility-checker.php:510
+msgid "Start Scan"
+msgstr "Start gjenomsøking"
+
+#: lib/class-php-compatibility-checker.php:435
+msgid "Submit to Codeable"
+msgstr "Send inn til Codeable"
+
+#: lib/class-php-compatibility-checker.php:432
+msgid "Automatically submit this error report to Codeable to get a quick quote from their vetted WordPress developers."
+msgstr "Send inn denne feilrapporten automatisk til Codeable for å få en rask uttalelse fra deres kjente WordPress-utviklere."
+
+#: lib/class-php-compatibility-checker.php:431
+msgid "Get PHP 8 ready with Codeable"
+msgstr "Bli PHP 8-klar med Codable"
+
+#: lib/class-php-compatibility-checker.php:427
+msgid "Find a WP Engine Partner"
+msgstr "Finn en partner for WP Engine"
+
+#: lib/class-php-compatibility-checker.php:426
+msgid "Our agency partners can help make your site PHP 8 compatible."
+msgstr "Våre byrå-partnere kan hjelpe deg gjøre ditt nettsted kompatibelt med PHP 8."
+
+#: lib/class-php-compatibility-checker.php:425
+msgid "Get help from WP Engine partners"
+msgstr "Få hjelp fra WP Engine-partnere"
+
+#: lib/class-php-compatibility-checker.php:423
+msgid "Need help making this site PHP 8 compatible?"
+msgstr "Trenger du hjelp med å gjøre dette nettstedet PHP 8-kompatibelt?"
+
+#: lib/class-php-compatibility-checker.php:415
+msgid "Click here to upgrade to PHP 7"
+msgstr "Klikk her for å oppgradere til PHP 7"
+
+#: lib/class-php-compatibility-checker.php:415
+msgid "Already a WP Engine customer?"
+msgstr "Er du allerede en WP Engine-kunde?"
+
+#: lib/class-php-compatibility-checker.php:414
+msgid "Get PHP 7 Hosting"
+msgstr "Få PHP 7-hosting/webhotell"
+
+#: lib/class-php-compatibility-checker.php:412
+msgid "Upgrade to PHP 7 for free"
+msgstr "Oppgrader til PHP 7 gratis"
+
+#: lib/class-php-compatibility-checker.php:409
+msgid "Speed up your site and improve your conversion opportunities by upgrading to PHP 7 on the WP Engine platform."
+msgstr "Få fart på ditt nettsted og forbedre din konversonsmuligheter ved å oppgradere tilPHP 7 på plattformen til WP Engine."
+
+#: lib/class-php-compatibility-checker.php:406
+msgid "Make your site 2x faster with PHP 7 WordPress hosting"
+msgstr "Gjør ditt nettsted 2x raskere med PHP 7 WordPress-hosting"
+
+#: lib/class-php-compatibility-checker.php:404
+msgid "Make your site 2x faster by upgrading to PHP 7"
+msgstr "Gjør ditt nettsted 2x raskere ved å oppgradere til PHP 7"
+
+#. translators: %s: GitHub Wiki URL
+#: lib/class-php-compatibility-checker.php:388
+msgid "Report false positives <a target=\"_blank\" href=\"%s\">on our GitHub repo</a>."
+msgstr "Rapporter falske positive <a target=\"_blank\" href=\"%s\">på vårt GitHub-repo</a>."
+
+#: lib/class-php-compatibility-checker.php:383
+msgid "PHP Warnings could cause compatibility issues with future PHP versions and/or spam your logs."
+msgstr "PHP-advarsler kan forårsake kompatibilitetsproblemer med fremtidige PHP-versjoner og/eller oversvømme dine logger."
+
+#: lib/class-php-compatibility-checker.php:382
+msgid "This tool does not execute your theme or plugin code, so it cannot detect runtime compatibility issues."
+msgstr "Dete verktøyet kjører ikke koden i dine tema og utvidelser, så det kan ikke oppdage kjøretidsfeil som skyldes kompatibilitetsproblemer."
+
+#: lib/class-php-compatibility-checker.php:380
+msgid "Limitations &amp; Caveats"
+msgstr "Begrensninger og advarsler"
+
+#. translators: %s: hosting URL
+#: lib/class-php-compatibility-checker.php:370
+msgid "<strong>Attention:</strong> Not all errors are show-stoppers. <a target=\"_blank\" href=\"%s\">Use LocalWP to test this site on PHP 8</a> to see if it just works!"
+msgstr "<strong>OBS:</strong> Ikke alle feil betyr at det ikke er noen vei videre. <a target=\"_blank\" href=\"%s\">Bruk LcalWP for å teste dette nettstedet på PHP 8</a> for å se om det likevel bare virker!"
+
+#: lib/class-php-compatibility-checker.php:355
+msgid "View results as raw text"
+msgstr "Se resultatene i en tekst"
+
+#: lib/class-php-compatibility-checker.php:352
+msgid "Clear results"
+msgstr "Nullstill resultater"
+
+#: lib/class-php-compatibility-checker.php:351
+msgid "Download Report"
+msgstr "Last ned rapport"
+
+#: lib/class-php-compatibility-checker.php:347
+msgid "Scan Results for PHP Compatibility"
+msgstr "Gjennomsøkingsresultater for PHP-kompatibilitet"
+
+#: lib/class-php-compatibility-checker.php:320
+msgid "Scan all plugins and themes"
+msgstr "Gjennomsøk alle utvidelser og tema"
+
+#: lib/class-php-compatibility-checker.php:319
+msgid "Only scan active plugins and theme"
+msgstr "Gjennomsøk bare aktive utvidelser og tema"
+
+#: lib/class-php-compatibility-checker.php:316
+msgid "Plugin / Theme Status"
+msgstr "Status for utvidelse / tema"
+
+#: lib/class-php-compatibility-checker.php:312
+msgid "Scan Options"
+msgstr "Alternativer for gjennomsøking"
+
+#: lib/class-php-compatibility-checker.php:309
+msgid "This tool will lint your theme and plugin code on this site and provide you a report of compatibility issues. These issues are categorized into errors and warnings and will list the file and line number of the offending code, as well as the info about why that line of code is incompatible with the chosen version of PHP. This tool will also suggest updates to themes and plugins, as a new version may offer compatible code."
+msgstr "Dette verktøyet vil klarerer din tema- og uvidelseskode på dette nettstedet og gi deg en rapport om kompatibilitetsproblemer. Disse problemene er kategorisert i feil og advarsler og vil angi fil og linjenummer til den problematiske koden, sammen med informasjon og om hvorfor den kodelinjen er inkompatibel med den valgte versjonen av PHP. Dette verktøyet vil også foreslå oppdateringer til temaer og utvidelser, nå nye versjoner kan tilby kompatibel kode."
+
+#: lib/class-php-compatibility-checker.php:308
+msgid "The PHP Compatibility Checker can be used on any WordPress website on any web host."
+msgstr "PHP kompatibilitetskontroll kan brukes på på ethvert WordPress-nettsted og på enhver nettvert/webhotell."
+
+#: lib/class-php-compatibility-checker.php:284
+msgid "PHP Compatibility"
+msgstr "PHP-kompatibilitet"
+
+#: lib/class-php-compatibility-checker.php:328
+msgid "Scan site"
+msgstr "Gjennomsøk nettsted"
+
+#. Author of the plugin
+msgid "WP Engine"
+msgstr "WP Engine"
+
+#. Plugin URI of the plugin
+msgid "https://wpengine.com"
+msgstr "https://wpengine.com"
+
+#. Plugin Name of the plugin
+#: lib/class-php-compatibility-checker.php:306
+msgid "PHP Compatibility Checker"
+msgstr "PHP kompatibilitetskontroll"

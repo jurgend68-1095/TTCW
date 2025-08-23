@@ -1,0 +1,1696 @@
+# Translation of Themes - PressBook in Spanish (Spain)
+# This file is distributed under the same license as the Themes - PressBook package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-05-23 17:03:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - PressBook\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "PressBook is a multi-purpose WordPress theme suitable for blogs, news, marketing, and educational websites. The theme offers a fully responsive, clean, modern, and pixel-perfect design that can adjust automatically to fit the content elements in the best possible manner for any screen-size device. It has a minimal dependency, an SEO-friendly layout, and offers high performance with a quick loading time. It supports double sidebars, a single sidebar, footer widgets, an eye-catching gradient colors scheme for buttons and the top bar, a top advertisement banner area with a custom header background, and customizable options. Both the sidebars can be configured to be shown on the left or on the right. This theme is great to publish documentation, tutorials, events, status updates, story updates, technology blogs, reviews, newsfeeds, etc. It comes with sticky sidebars that float with scrolling. The theme supports multiple page templates with page-level layout settings, blog layouts, conditional block areas, page builders, different color settings, footer options, and much more. Also, the theme comes with three menu locations which include a fully accessible multi-level primary menu with a search form, a top bar navigation menu, and social links menu. It is also great for building schools, university, institutes, and academic, or educational websites."
+msgstr "PressBook es un tema de WordPress multipropósito adecuado para blogs, noticias, marketing y web educativas. El tema ofrece un diseño totalmente adaptable, limpio, moderno y pixel-perfect, que puede ajustarse automáticamente para adaptar los elementos de contenido de la mejor manera posible a cualquier tamaño de pantalla de dispositivo. Tiene una dependencia mínima, un diseño compatible con SEO y ofrece un alto rendimiento con un tiempo de carga rápido. Es compatible con barras laterales dobles, una única barra lateral, widgets de pie de página, un llamativo esquema de colores degradados para los botones y la barra superior, una zona superior de banners publicitarios con un fondo de cabecera personalizado y opciones personalizables. Ambas barras laterales pueden configurarse para mostrarse a la izquierda o a la derecha. Este tema es ideal para publicar documentación, tutoriales, eventos, actualizaciones de estado, actualizaciones de historias, blogs de tecnología, reseñas, noticias, etc. Incluye barras laterales fijas que flotan con el desplazamiento. El tema es compatible con varias plantillas de página con ajustes de diseño a nivel de página, diseños de blog, áreas de bloques condicionales, maquetadores de páginas, diferentes ajustes de color, opciones de pie de página y mucho más. Además, el tema viene con tres ubicaciones de menú que incluyen un menú principal multinivel totalmente accesible con un formulario de búsqueda, un menú de navegación de la barra superior y un menú de enlaces sociales. También es ideal para crear webs de escuelas, universidades, institutos y web académicos o educativos."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "PressBook"
+msgstr "PressBook"
+
+#: inc/core/Options/Blog.php:431
+msgid "Hide featured image in a single post view."
+msgstr "Oculta la imagen destacada en una vista de entrada individual."
+
+#: inc/core/Options/Blog.php:430
+msgid "Hide Featured Image in Single Post"
+msgstr "Oculta la imagen destacada en la entrada individual"
+
+#: inc/core/Options/Blog.php:389
+msgid "Shift meta details and post title for a single post before the featured image."
+msgstr "Desplazar los detalles meta y el título para una entrada individual antes de la imagen destacada."
+
+#: inc/core/Options/Blog.php:388
+msgid "Shift Post Meta Before Featured Image"
+msgstr "Desplazar los detalles meta antes de la imagen destacada"
+
+#: inc/core/Options/Blog.php:473
+msgid "Replace SVG icon with profile picture on gravatar for post authors."
+msgstr "Sustituye el icono SVG por la foto de perfil en gravatar para los autores de entradas."
+
+#: inc/core/Options/Blog.php:472
+msgid "Show Author's Profile Picture"
+msgstr "Mostrar imagen de perfil del autor"
+
+#: inc/welcome-page.php:162 inc/welcome-page.php:174
+msgid "Pattern Blocks"
+msgstr "Bloques de patrones"
+
+#: template-parts/header/primary-navbar.php:15
+msgid "Toggle Primary Menu"
+msgstr "Alternar menú principal"
+
+#: inc/core/Options/Blog.php:175
+msgid "In archive pages, you can show the archive title and archive description. This is applicable to any archive pages like tag, category, etc."
+msgstr "En las páginas de archivo, puedes mostrar el título y la descripción del archivo. Esto es aplicable a cualquier página de archivo, como etiquetas, categorías, etc."
+
+#: inc/core/Options/Blog.php:174
+msgid "Show Archive Page Title"
+msgstr "Mostrar el título de la página de archivo"
+
+#. translators: %s: URL to the pattern-blocks admin page.
+#: inc/core/Options/TopBanner.php:423
+msgid "You can use this to replace top banner image and use any custom block (For example: \"Custom HTML block\"). This is the content of the block section. You can create or edit the block section in the <a href=\"%s\" target=\"_blank\">Pattern Blocks Manager (opens in a new window)</a>.<br>After creating the pattern block, you may need to refresh this customizer page and then select the newly created block.<br>The selected block content will appear on the block section, replacing the top banner image and overriding its related options."
+msgstr "Puedes utilizarlo para sustituir la imagen del banner superior y utilizar cualquier bloque personalizado (Por ejemplo: «Bloque HTML personalizado»). Este es el contenido de la sección de bloque. Puedes crear o editar la sección de bloque en <a href=\"%s\" target=\"_blank\">Administrador de patrón de bloques (se abre en una ventana nueva)</a>.<br>Después de crear el bloque de patrón, puede que tengas que actualizar esta página del personalizador y luego seleccionar el bloque recién creado.<br>El contenido del bloque seleccionado aparecerá en la sección de bloque, sustituyendo a la imagen del banner superior y anulando sus opciones relacionadas."
+
+#: inc/core/Options/TopBanner.php:419
+msgid "Top Banner Block Section"
+msgstr "Sección de bloque del banner superior"
+
+#: inc/welcome-page.php:173
+msgid "Footer Blocks"
+msgstr "Bloques de pie de página"
+
+#: inc/welcome-page.php:161
+msgid "Header Blocks"
+msgstr "Bloques de cabecera"
+
+#: inc/welcome-page.php:111
+msgid "Multiple Design for Site Branding, Top Navbar, Primary Navbar"
+msgstr "Diseño múltiple para la marca del sitio, barra de navegación superior, barra de navegación principal"
+
+#: inc/welcome-page.php:100
+msgid "Standard Grid Layout and Masonry Grid Layout"
+msgstr "Diseño de cuadrícula estándar y de muro en cuadrícula"
+
+#: inc/welcome-page.php:148
+msgid "Theme Colors"
+msgstr "Colores del tema"
+
+#: inc/welcome-page.php:149
+msgid "Header Image"
+msgstr "Imagen de cabecera"
+
+#: inc/welcome-page.php:150
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/welcome-page.php:185
+msgid "Add / Manage Widgets"
+msgstr "Añadir / gestionar Widgets"
+
+#: inc/welcome-page.php:133
+msgid "You can configure the options and change the colors of the primary navbar from the Customizer > Primary Navbar."
+msgstr "Puedes configurar las opciones y cambiar los colores de la barra de navegación principal desde el Personalizador > Barra de navegación principal."
+
+#: inc/welcome-page.php:131
+msgid "Primary Menu Options & Colors"
+msgstr "Opciones y colores del menú principal"
+
+#: inc/welcome-page.php:122
+msgid "You can configure the options and change the colors of the top navbar from the Customizer > Top Navbar."
+msgstr "Puedes configurar las opciones y cambiar los colores de la barra de navegación superior desde el Personalizador > Barra de navegación superior."
+
+#: inc/welcome-page.php:120
+msgid "Top Menu Options & Colors"
+msgstr "Opciones y colores del menú superior"
+
+#. translators: %s: search query
+#: index.php:45
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: inc/core/Options/Footer.php:137
+msgid "Hide Go To Top Button"
+msgstr "Ocultar el botón de volver arriba"
+
+#: inc/welcome-page.php:110
+msgid "Header Posts and Related Posts Grid with Advanced Options"
+msgstr "Cuadrícula de entradas de cabecera y relacionadas con opciones avanzadas"
+
+#: inc/welcome-page.php:98
+msgid "Multiple Posts Carousels with Advanced Options"
+msgstr "Varios carruseles de entradas con opciones avanzadas"
+
+#: inc/core/Options/Sidebar.php:79
+msgid "Set the layout for the double sidebars. This applies only when both the sidebars (left and right) are active. A sidebar is active when there is at least one widget in it."
+msgstr "Establece el diseño de las barras laterales dobles. Esto solo se aplica cuando ambas barras laterales (izquierda y derecha) están activas. Una barra lateral está activa cuando hay al menos un widget en ella."
+
+#: inc/core/Options/Sidebar.php:78
+msgid "Double Sidebars Layout (Large-Screen Devices)"
+msgstr "Diseño de barras laterales dobles (dispositivos de pantalla grande)"
+
+#: inc/core/Options/Sidebar.php:76
+msgid "Both Sidebars to the Right"
+msgstr "Ambas barras laterales a la derecha"
+
+#: inc/core/Options/Sidebar.php:75
+msgid "Both Sidebars to the Left"
+msgstr "Ambas barras laterales a la izquierda"
+
+#: inc/core/Options/Sidebar.php:74
+msgid "One Left and One Right"
+msgstr "Una izquierda y una derecha"
+
+#: inc/core/Options/Blog.php:514
+msgid "You can change the \"Featured\" label for the sticky posts. Leave it empty for default text."
+msgstr "Puedes cambiar la etiqueta «Destacado» para las entradas fijas. Déjala vacía para el texto por defecto."
+
+#: inc/core/Options/Blog.php:513
+msgid "Featured (Sticky Post) Label"
+msgstr "Etiqueta «destacado» (entrada fija)"
+
+#: inc/core/Options/General.php:65
+msgid "You can change the search form button text. Leave it empty for default text. This does not change the button text of search form widget block. To change that, you can directly edit the search form widget block in the editor itself."
+msgstr "Puedes cambiar el texto del botón del formulario de búsqueda. Déjalo vacío para el texto por defecto. Esto no cambia el texto del botón del bloque del widget del formulario de búsqueda. Para cambiarlo, puedes editar directamente el bloque del widget del formulario de búsqueda en el propio editor."
+
+#: inc/welcome-page.php:112
+msgid "Multiple Eye-Catching Block Patterns to Quickly Create Sections"
+msgstr "Múltiples patrones de bloques llamativos para crear secciones rápidamente"
+
+#: inc/welcome-page.php:106
+msgid "Custom Accent Colors - Links, Text, Heading, Hover Colors"
+msgstr "Colores acentuados personalizados - Enlaces, texto, encabezado, colores al pasar el cursor"
+
+#: inc/core/Options/Blog.php:325
+msgid "Hide the post tags."
+msgstr "Ocultar las etiquetas de las entradas."
+
+#: inc/core/Options/Blog.php:324
+msgid "Post: Hide Tags"
+msgstr "Entradas: Ocultar etiquetas"
+
+#: inc/core/Options/Blog.php:298
+msgid "Hide the post categories."
+msgstr "Ocultar las categorías de las entradas."
+
+#: inc/core/Options/Blog.php:297
+msgid "Post: Hide Categories"
+msgstr "Entradas: Ocultar categorías"
+
+#. translators: 1: "Read More" text, 2: Name of current post. Only visible to
+#. screen readers
+#: inc/core/Enhance.php:108
+msgctxt "excerpt more"
+msgid "%1$s<span class=\"screen-reader-text\"> &ldquo;%2$s&rdquo;</span> &raquo;"
+msgstr "%1$s<span class=\"screen-reader-text\"> &ldquo;%2$s&rdquo;</span> &raquo;"
+
+#: inc/core/Options/Fonts.php:144
+msgctxt "Font Weight"
+msgid "700"
+msgstr "700"
+
+#: inc/core/Options/Fonts.php:143
+msgctxt "Font Weight"
+msgid "600"
+msgstr "600"
+
+#: inc/core/Options/Fonts.php:142
+msgctxt "Font Weight"
+msgid "500"
+msgstr "500"
+
+#: inc/core/Options/Fonts.php:141
+msgctxt "Font Weight"
+msgid "400"
+msgstr "400"
+
+#. translators: %s: URL to the pattern-blocks admin page.
+#: inc/core/Options/BlockSection.php:46
+msgid "This is the content of the block section. You can create or edit the block section in the <a href=\"%s\" target=\"_blank\">Pattern Blocks Manager (opens in a new window)</a>.<br>After creating the pattern block, you may need to refresh this customizer page and then select the newly created block.<br>The selected block content will appear on the block section."
+msgstr "Este es el contenido de la sección de bloques. Puedes crear o editar la sección de bloque en el <a href=\"%s\" target=\"_blank\">Administrador de patrones de bloques (se abre en una ventana nueva)</a>.<br>Después de crear el patrón de bloque, puede que tengas que actualizar esta página del personalizador y luego seleccionar el bloque recién creado.<br>El contenido del bloque seleccionado aparecerá en la sección de bloques."
+
+#: inc/core/Options/Upsell.php:77
+msgid "Advanced typography settings: font-family, font-size, body font-weight, line-height, over 50+ Google fonts, and custom Google font loader are available to select for the headings and body text in our premium version."
+msgstr "Ajustes tipográficos avanzados: familia de fuente, tamaño de fuente, grosor del cuerpo de la fuente, interlineado, más de 50 fuentes de Google y cargador personalizado de fuentes de Google están disponibles para seleccionar los encabezados y el cuerpo del texto en nuestra versión premium."
+
+#: inc/welcome-page.php:108
+msgid "Typography Settings - Global Font-Size, Font-Family, Line-Height"
+msgstr "Ajustes Tipográficos - Tamaño de fuente global, familia de fuente, interlineado"
+
+#: inc/core/Options/Footer.php:209
+msgid "Footer Credit Link Color"
+msgstr "Color del enlace de acreditación del pie de página"
+
+#: inc/core/Options/General.php:107
+msgid "You can change the \"Read More\" text. Leave it empty for default text."
+msgstr "Puedes cambiar el texto «Leer más». Déjalo vacío para el texto por defecto."
+
+#: inc/core/Options/General.php:106
+msgid "Read More Text"
+msgstr "Texto «Leer más»"
+
+#: inc/core/Enhance.php:102 inc/core/Enhance.php:136
+msgid "Read More"
+msgstr "Leer más"
+
+#: inc/core/Options/Blog.php:271
+msgid "Hide only the post author. Checking the \"Post Meta: Hide All\" option will override this option."
+msgstr "Ocultar solo el autor de la entrada. Marcar la opción «Metadatos de la entrada: Ocultar todo» anulará esta opción."
+
+#: inc/core/Options/Blog.php:270
+msgid "Post Meta: Hide Author"
+msgstr "Metadatos de la entrada: Ocultar autor"
+
+#: inc/core/Options/Blog.php:244
+msgid "Hide only the post date. Checking the \"Post Meta: Hide All\" option will override this option."
+msgstr "Ocultar solo la fecha de la entrada. Marcar la opción «Metadatos de la entrada: Ocultar todo» anulará esta opción."
+
+#: inc/core/Options/Blog.php:243
+msgid "Post Meta: Hide Date"
+msgstr "Metadatos de la entrada: Ocultar fecha"
+
+#: inc/core/Options/Blog.php:217
+msgid "Hide all the post meta data including date, author, number of comments, etc."
+msgstr "Oculta todos los metadatos de las entradas, como la fecha, el autor, el número de comentarios, etc."
+
+#: inc/core/Options/Blog.php:216
+msgid "Post Meta: Hide All"
+msgstr "Metadatos de la entrada: Ocultar todo"
+
+#: inc/core/Options/Blog.php:133
+msgid "Select the content to show in the blog archive pages. Default: Summary"
+msgstr "Selecciona el contenido que se mostrará en las páginas de archivo del blog. Por defecto: Resumen"
+
+#: inc/core/Options/Blog.php:132
+msgid "Blog Archive Content"
+msgstr "Contenido del archivo del blog"
+
+#: inc/core/Options/Blog.php:130
+msgid "Summary"
+msgstr "Resumen"
+
+#: inc/core/Options/Blog.php:129
+msgid "Full text"
+msgstr "Texto completo"
+
+#: inc/core/Options/Colors.php:166
+msgid "Button Gradient Background 2"
+msgstr "Fondo degradado 2 del botón"
+
+#: inc/core/Options/Colors.php:136
+msgid "Button Gradient Background 1"
+msgstr "Fondo degradado 1 del botón"
+
+#: inc/core/Options/General.php:64
+msgid "Search Form Button Text"
+msgstr "Text del botón del formulario de búsqueda."
+
+#: inc/core/Options/General.php:38
+msgid "You can customize the general options in here."
+msgstr "Aquí puedes personalizar las opciones generales."
+
+#: inc/core/Options/General.php:37
+msgid "General Options"
+msgstr "Opciones generales"
+
+#: inc/welcome-page.php:157
+msgid "You can enable the header block area by creating a block in the pattern block manager. Then select this block in the Customizer > Header Block. PressBook comes with 1 header block area."
+msgstr "Puedes activar el área del bloque de cabecera creando un bloque en el gestor de patrones de bloques. Luego selecciona este bloque en «Personalizador > Bloque de cabecera». PressBook incluye 1 área de bloque de cabecera."
+
+#: inc/welcome-page.php:203
+msgid "Similarly, you can set the page template to full width, large width, medium width, small width, or default template without sidebar."
+msgstr "Del mismo modo, puedes establecer la plantilla de página en ancho completo, ancho grande, ancho medio, ancho pequeño, o plantilla por defecto sin barra lateral."
+
+#: inc/welcome-page.php:200
+msgid "There are many page templates available to choose from. You can simply edit the page and on the right side of the page editor screen, set the template from \"Template\" to \"Page with sidebar\"."
+msgstr "Hay muchas plantillas de página disponibles para elegir. Puedes simplemente editar la página y, en la parte derecha de la pantalla del editor de páginas, establecer la plantilla de «Plantilla» a «Página con barra lateral»."
+
+#: inc/welcome-page.php:198
+msgid "Page Template with Sidebar"
+msgstr "Plantilla de página con barra lateral"
+
+#: inc/welcome-page.php:167
+msgid "Footer Block Area"
+msgstr "Área del bloque de pie de página"
+
+#: inc/core/Options/Upsell.php:221
+msgid "More footer and color options are available in our premium version."
+msgstr "Hay más opciones de pie de página y de color disponibles en nuestra versión premium."
+
+#: inc/core/Options/Upsell.php:205
+msgid "More blog options and advanced theme options are available in our premium version."
+msgstr "Hay disponibles más opciones de blog y opciones avanzadas de tema en nuestra versión premium."
+
+#: inc/core/Options/Upsell.php:189
+msgid "Sidebar background, text color, post meta color, and many more options are available in our premium version."
+msgstr "El fondo de la barra lateral, el color del texto, el color de los metadatos de la entrada y muchas más opciones están disponibles en nuestra versión premium."
+
+#: inc/core/Options/Upsell.php:173
+msgid "Content background, text color, button color, link color and many more options are available in our premium version."
+msgstr "El fondo del contenido, el color del texto, el color del botón, el color del enlace y muchas más opciones están disponibles en nuestra versión premium."
+
+#: inc/core/Options/Upsell.php:157
+msgid "More footer blocks and header blocks are available in our premium version."
+msgstr "Más bloques de pie de página y de cabecera disponibles en nuestra versión premium."
+
+#: inc/core/Options/Upsell.php:141
+msgid "More header blocks and footer blocks are available in our premium version."
+msgstr "Más bloques de cabecera y bloques de pie de página disponibles en nuestra versión premium."
+
+#: inc/core/Options/Upsell.php:125
+msgid "More color options for primary navigation are available in our premium version."
+msgstr "Más opciones de color para la navegación principal disponibles en nuestra versión premium."
+
+#: inc/core/Options/Upsell.php:109
+msgid "Multiple eye-catching block patterns, custom gradient color scheme, header blocks, footer blocks are available in our premium version."
+msgstr "Varios patrones de bloques llamativos, un esquema de color degradado personalizado, bloques de cabecera y de pie de página disponibles en nuestra versión premium."
+
+#: inc/core/Options/Upsell.php:93
+msgid "Multiple eye-catching block patterns, custom gradient color options, header blocks, footer blocks, and many more options are available in our premium version."
+msgstr "Varios patrones de bloques llamativos, opciones de colores degradados personalizados, bloques de cabecera, bloques de pie de página y muchas opciones más, disponibles en nuestra versión premium."
+
+#: inc/core/Options/Upsell.php:61
+msgid "More color options like button text color, link color, theme accent color, RGBA colors, fonts selector, and many more options are available in our premium version."
+msgstr "Más opciones de color como el color del texto de los botones, el color de los enlaces, el color de acentuado del tema, los colores RGBA, el selector de fuentes y muchas más opciones están disponibles en nuestra versión premium."
+
+#: inc/core/Options/Upsell.php:60 inc/core/Options/Upsell.php:76
+#: inc/core/Options/Upsell.php:92 inc/core/Options/Upsell.php:108
+#: inc/core/Options/Upsell.php:124 inc/core/Options/Upsell.php:140
+#: inc/core/Options/Upsell.php:156 inc/core/Options/Upsell.php:172
+#: inc/core/Options/Upsell.php:188 inc/core/Options/Upsell.php:204
+#: inc/core/Options/Upsell.php:220
+msgid "Learn More"
+msgstr "Más información"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "Comment <span class=\"comments-title-count\">(%1$s)</span><span class=\"screen-reader-text\"> on &ldquo;%2$s&rdquo;</span>"
+msgid_plural "Comments <span class=\"comments-title-count\">(%1$s)</span><span class=\"screen-reader-text\"> on &ldquo;%2$s&rdquo;</span>"
+msgstr[0] "Comentario <span class=\"comments-title-count\">(%1$s)</span><span class=\"screen-reader-text\"> on &ldquo;%2$s&rdquo;</span>"
+msgstr[1] "Comentarios <span class=\"comments-title-count\">(%1$s)</span><span class=\"screen-reader-text\"> on &ldquo;%2$s&rdquo;</span>"
+
+#: footer.php:30
+msgid "Go to top"
+msgstr "Ir arriba"
+
+#: inc/core/Options/Fonts.php:128
+msgid "Site Title Font Weight"
+msgstr "Grosor de la fuente del título del sitio"
+
+#: inc/core/Options/Fonts.php:102 inc/core/Options/Fonts.php:129
+msgid "Default: 700"
+msgstr "Por defecto: 700"
+
+#: inc/core/Options/Fonts.php:101
+msgid "Heading Font Weight"
+msgstr "Grosor de la fuente del encabezado"
+
+#: inc/core/Options/Fonts.php:75
+msgid "Default: 600"
+msgstr "Por defecto: 600"
+
+#: inc/core/Options/Fonts.php:74
+msgid "Button Font Weight"
+msgstr "Grosor de la fuente del botón"
+
+#: inc/core/Options/Fonts.php:47
+msgid "You can customize the fonts options in here."
+msgstr "Aquí puedes personalizar las opciones de las fuentes."
+
+#: inc/core/Options/Fonts.php:46
+msgid "Fonts"
+msgstr "Fuentes"
+
+#: inc/core/Options/Footer.php:179
+msgid "Footer Background Color"
+msgstr "Color de fondo del pie de página"
+
+#: inc/core/Options/Footer.php:95
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: 1: current year, 2: blog name
+#: inc/core/Options/Footer.php:94
+msgid "Copyright &copy; %1$s %2$s."
+msgstr "Copyright &copy; %1$s %2$s."
+
+#: inc/core/Options/Footer.php:69
+msgid "You can change the copyright text in the footer. You may use the following tags: em, strong, span, a, br."
+msgstr "Puedes cambiar el texto del copyright en el pie de página. Puedes utilizar las siguientes etiquetas: em, strong, span, a, br."
+
+#: inc/core/Options/Footer.php:68
+msgid "Copyright Text"
+msgstr "Texto de copyright"
+
+#: inc/core/Options/Footer.php:42
+msgid "You can customize the footer options in here."
+msgstr "Aquí puedes personalizar las opciones del pie de página."
+
+#: inc/core/Options/Footer.php:41
+msgid "Footer Options"
+msgstr "Opciones del pie de página"
+
+#: inc/core/Options/Sidebar.php:272
+msgid "You can enable or disable sticky sidebar that floats on scrolling."
+msgstr "Puedes activar o desactivar la barra lateral fija que flota al hacer scroll."
+
+#: inc/core/Options/Sidebar.php:271
+msgid "Sticky-Floating Sidebar"
+msgstr "Barra lateral flotante-fija"
+
+#: inc/core/Options/Sidebar.php:209
+msgid "Remove Box Shadow"
+msgstr "Quitar la sombra de la caja"
+
+#: inc/core/Options/Sidebar.php:105
+msgid "Side Widget Border Color"
+msgstr "Color del borde del widget lateral"
+
+#: inc/core/Options/Sidebar.php:47
+msgid "You can customize the sidebar layout options in here."
+msgstr "Aquí puedes personalizar las opciones de diseño de la barra lateral."
+
+#: inc/core/Options/Sidebar.php:46
+msgid "Sidebar Layout"
+msgstr "Diseño de la barra lateral"
+
+#: inc/core/Options/HeaderBlock.php:123
+msgid "Top Margin"
+msgstr "Margen superior"
+
+#. translators: %s: header block number
+#: inc/core/Options/HeaderBlock.php:73 inc/core/Options/HeaderBlock.php:100
+#: inc/core/Options/HeaderBlock.php:126 inc/core/Options/HeaderBlock.php:152
+#: inc/core/Options/HeaderBlock.php:178 inc/core/Options/HeaderBlock.php:204
+#: inc/core/Options/HeaderBlock.php:230 inc/core/Options/HeaderBlock.php:256
+msgid "Header Block %s"
+msgstr "Bloque de cabecera %s"
+
+#: inc/core/Options/HeaderBlock.php:38
+msgid "You can customize the header block options in here."
+msgstr "Aquí puedes personalizar las opciones del bloque de cabecera."
+
+#: inc/core/Options/HeaderBlock.php:37
+msgid "Header Block"
+msgstr "Bloque de cabecera"
+
+#: inc/core/Options/HeaderImage.php:151
+msgid "Contain"
+msgstr "Contenido"
+
+#: inc/core/Options/HeaderImage.php:150
+msgid "Cover"
+msgstr "Cubrir"
+
+#: inc/core/Options/HeaderImage.php:149
+msgid "Auto"
+msgstr "Automático"
+
+#: inc/core/Options/HeaderImage.php:138
+msgid "No Repeat"
+msgstr "Sin repetición"
+
+#: inc/core/Options/HeaderImage.php:137
+msgid "Repeat Y"
+msgstr "Repetir Y"
+
+#: inc/core/Options/HeaderImage.php:136
+msgid "Repeat X"
+msgstr "Repetir X"
+
+#: inc/core/Options/HeaderImage.php:135
+msgid "Repeat"
+msgstr "Repetir"
+
+#: inc/core/Options/HeaderImage.php:124
+msgid "Center Bottom"
+msgstr "Centro abajo"
+
+#: inc/core/Options/HeaderImage.php:123
+msgid "Center Center"
+msgstr "Parte central centro"
+
+#: inc/core/Options/HeaderImage.php:122
+msgid "Center Top"
+msgstr "Centro arriba"
+
+#: inc/core/Options/HeaderImage.php:121
+msgid "Right Bottom"
+msgstr "Derecha abajo"
+
+#: inc/core/Options/HeaderImage.php:120
+msgid "Right Center"
+msgstr "Derecha centro"
+
+#: inc/core/Options/HeaderImage.php:119
+msgid "Right Top"
+msgstr "Derecha arriba"
+
+#: inc/core/Options/HeaderImage.php:118
+msgid "Left Bottom"
+msgstr "Izquierda abajo"
+
+#: inc/core/Options/HeaderImage.php:117
+msgid "Left Center"
+msgstr "Izquierda centro"
+
+#: inc/core/Options/HeaderImage.php:116
+msgid "Left Top"
+msgstr "Izquierda arriba"
+
+#: inc/core/Options/HeaderImage.php:104
+msgid "Default: Contain"
+msgstr "Por defecto: Contenido"
+
+#: inc/core/Options/HeaderImage.php:103
+msgid "Header Background Size"
+msgstr "Tamaño del fondo de la cabecera"
+
+#: inc/core/Options/HeaderImage.php:77
+msgid "Default: Repeat"
+msgstr "Por defecto: Repetir"
+
+#: inc/core/Options/HeaderImage.php:76
+msgid "Header Background Repeat"
+msgstr "Repetir fondo de la cabecera"
+
+#: inc/core/Options/HeaderImage.php:50
+msgid "Default: Center Center"
+msgstr "Por defecto: Centro Centro"
+
+#: inc/core/Options/HeaderImage.php:49
+msgid "Header Background Position"
+msgstr "Posición del fondo de la cabecera"
+
+#: inc/core/Options/FooterBlock.php:253 inc/core/Options/HeaderBlock.php:253
+msgid "Show in Pages"
+msgstr "Mostrar en páginas"
+
+#: inc/core/Options/FooterBlock.php:227 inc/core/Options/HeaderBlock.php:227
+msgid "Show in Posts"
+msgstr "Mostrar en las entradas"
+
+#: inc/core/Options/FooterBlock.php:201 inc/core/Options/HeaderBlock.php:201
+msgid "Show in Archive Pages"
+msgstr "Mostrar en las páginas de archivo"
+
+#: inc/core/Options/FooterBlock.php:175 inc/core/Options/HeaderBlock.php:175
+msgid "Show in Blog Page"
+msgstr "Mostrar en la página del blog"
+
+#: inc/core/Options/FooterBlock.php:149 inc/core/Options/HeaderBlock.php:149
+msgid "Show in Front Page"
+msgstr "Mostrar en página de inicio"
+
+#: inc/core/Options/FooterBlock.php:123
+msgid "Bottom Margin"
+msgstr "Margen inferior"
+
+#: inc/core/Options/FooterBlock.php:97 inc/core/Options/HeaderBlock.php:97
+msgid "Set Full Width"
+msgstr "Establecer ancho completo"
+
+#. translators: %s: footer block number
+#: inc/core/Options/FooterBlock.php:73 inc/core/Options/FooterBlock.php:100
+#: inc/core/Options/FooterBlock.php:126 inc/core/Options/FooterBlock.php:152
+#: inc/core/Options/FooterBlock.php:178 inc/core/Options/FooterBlock.php:204
+#: inc/core/Options/FooterBlock.php:230 inc/core/Options/FooterBlock.php:256
+msgid "Footer Block %s"
+msgstr "Bloque de pie de página %s"
+
+#: inc/core/Options/FooterBlock.php:38
+msgid "You can customize the footer block options in here."
+msgstr "Aquí puedes personalizar las opciones del bloque de pie de página."
+
+#: inc/core/Options/FooterBlock.php:37
+msgid "Footer Block"
+msgstr "Bloque de pie de página"
+
+#: inc/core/Options/SiteIdentity.php:361
+msgid "Size 5"
+msgstr "Tamaño 5"
+
+#: inc/core/Options/SiteIdentity.php:360
+msgid "Size 4"
+msgstr "Tamaño 4"
+
+#: inc/core/Options/SiteIdentity.php:359
+msgid "Size 3"
+msgstr "Tamaño 3"
+
+#: inc/core/Options/SiteIdentity.php:358
+msgid "Size 2"
+msgstr "Tamaño 2"
+
+#: inc/core/Options/SiteIdentity.php:357
+msgid "Size 1"
+msgstr "Tamaño 1"
+
+#: inc/core/Options/SiteIdentity.php:318
+msgctxt "Default: Tagline Size (Large-Screen Devices)"
+msgid "Default: Size 2"
+msgstr "Por defecto: Tamaño 2"
+
+#: inc/core/Options/SiteIdentity.php:317
+msgctxt "Default: Tagline Size (Medium-Screen Devices)"
+msgid "Default: Size 2"
+msgstr "Por defecto: Tamaño 2"
+
+#: inc/core/Options/SiteIdentity.php:316
+msgctxt "Default: Tagline Size (Small-Screen Devices)"
+msgid "Default: Size 2"
+msgstr "Por defecto: Tamaño 2"
+
+#: inc/core/Options/SiteIdentity.php:313
+msgid "Tagline Size (Large-Screen Devices)"
+msgstr "Tamaño de la descripción corta (dispositivos de pantalla grande)"
+
+#: inc/core/Options/SiteIdentity.php:312
+msgid "Tagline Size (Medium-Screen Devices)"
+msgstr "Tamaño de la descripción corta (dispositivos de pantalla mediana)"
+
+#: inc/core/Options/SiteIdentity.php:311
+msgid "Tagline Size (Small-Screen Devices)"
+msgstr "Tamaño de la descripción corta (dispositivos de pantalla pequeña)"
+
+#: inc/core/Options/SiteIdentity.php:298
+msgctxt "Default: Site Title Size (Large-Screen Devices)"
+msgid "Default: Size 2"
+msgstr "Por defecto: Tamaño 2"
+
+#: inc/core/Options/SiteIdentity.php:297
+msgctxt "Default: Site Title Size (Medium-Screen Devices)"
+msgid "Default: Size 2"
+msgstr "Por defecto: Tamaño 2"
+
+#: inc/core/Options/SiteIdentity.php:296
+msgctxt "Default: Site Title Size (Small-Screen Devices)"
+msgid "Default: Size 2"
+msgstr "Por defecto: Tamaño 2"
+
+#: inc/core/Options/SiteIdentity.php:293
+msgid "Site Title Size (Large-Screen Devices)"
+msgstr "Tamaño del título del sitio (dispositivos de pantalla grande)"
+
+#: inc/core/Options/SiteIdentity.php:292
+msgid "Site Title Size (Medium-Screen Devices)"
+msgstr "Tamaño del título del sitio (dispositivos de pantalla mediana)"
+
+#: inc/core/Options/SiteIdentity.php:291
+msgid "Site Title Size (Small-Screen Devices)"
+msgstr "Tamaño del título del sitio (dispositivos de pantalla pequeña)"
+
+#: inc/core/Options/SiteIdentity.php:278
+msgctxt "Default: Logo Size (Large-Screen Devices)"
+msgid "Default: Size 1"
+msgstr "Por defecto: Tamaño 1"
+
+#: inc/core/Options/SiteIdentity.php:277
+msgctxt "Default: Logo Size (Medium-Screen Devices)"
+msgid "Default: Size 1"
+msgstr "Por defecto: Tamaño 1"
+
+#: inc/core/Options/SiteIdentity.php:276
+msgctxt "Default: Logo Size (Small-Screen Devices)"
+msgid "Default: Size 1"
+msgstr "Por defecto: Tamaño 1"
+
+#: inc/core/Options/SiteIdentity.php:273
+msgid "Logo Size (Large-Screen Devices)"
+msgstr "Tamaño del logotipo (dispositivos de pantalla grande)"
+
+#: inc/core/Options/SiteIdentity.php:272
+msgid "Logo Size (Medium-Screen Devices)"
+msgstr "Tamaño del logotipo (dispositivos de pantalla mediana)"
+
+#: inc/core/Options/SiteIdentity.php:271
+msgid "Logo Size (Small-Screen Devices)"
+msgstr "Tamaño del logotipo (dispositivos de pantalla pequeña)"
+
+#: inc/core/Options/SiteIdentity.php:122
+msgid "Hide Site Tagline"
+msgstr "Ocultar la descripción corta del sitio"
+
+#: inc/core/Options/SiteIdentity.php:72
+msgid "Hide Site Title"
+msgstr "Ocultar el título del sitio"
+
+#: inc/core/Options/PrimaryNavbar.php:96
+msgid "Enable Primary Navbar Search Form"
+msgstr "Activar el formulario de búsqueda de la barra de navegación principal"
+
+#: inc/core/Options/PrimaryNavbar.php:66
+msgid "Primary Navbar Background Color"
+msgstr "Color de fondo de la barra de navegación principal"
+
+#: inc/core/Options/PrimaryNavbar.php:39
+msgid "You can customize the primary navbar options in here."
+msgstr "Aquí puedes personalizar las opciones de la barra de navegación principal."
+
+#: inc/core/Options/PrimaryNavbar.php:38 inc/welcome-page.php:137
+msgid "Primary Navbar"
+msgstr "Barra de navegación principal"
+
+#: inc/core/Options/Colors.php:109
+msgid "Tagline Color"
+msgstr "Color de la descripción corta"
+
+#: inc/core/Options/Colors.php:82
+msgid "Site Title Color"
+msgstr "Color del título del sitio"
+
+#: inc/core/Options/Colors.php:52
+msgid "Header Background Color"
+msgstr "Color de fondo de la cabecera"
+
+#: inc/core/Options/Blog.php:88
+msgid "Select the layout for the blog post in archive pages. Default: Thumbnail-Content - Columns (Cover)"
+msgstr "Selecciona el diseño de la entrada del blog en las páginas de archivo. Por defecto: Miniatura-Contenido - Columnas (Cubrir)"
+
+#: inc/core/Options/Blog.php:87
+msgid "Blog Archive Post Layout (Large-Screen Devices)"
+msgstr "Diseño de la entrada del archivo del blog (Dispositivos de pantalla grande)"
+
+#: inc/core/Options/Blog.php:85
+msgid "Thumbnail-Content - Columns (Cover)"
+msgstr "Miniatura-Contenido - Columnas (Cubrir)"
+
+#: inc/core/Options/Blog.php:84
+msgid "Thumbnail-Content - Columns (Contain)"
+msgstr "Miniatura-Contenido - Columnas (Contenido)"
+
+#: inc/core/Options/Blog.php:83
+msgid "Thumbnail-Content - Rows"
+msgstr "Miniatura-Contenido - Filas"
+
+#: inc/core/Options/Blog.php:56
+msgid "You can customize the blog options in here."
+msgstr "Aquí puedes personalizar las opciones del blog."
+
+#: inc/core/Options/Blog.php:55
+msgid "Blog Options"
+msgstr "Opciones del blog"
+
+#: inc/core/Options/Upsell.php:45
+msgid "Premium Available"
+msgstr "Premium disponible"
+
+#: inc/core/Options/TopBanner.php:290
+msgid "Hide in Medium-Screen Devices"
+msgstr "Ocultar en dispositivos de pantalla media"
+
+#: inc/core/Options/TopBanner.php:265
+msgid "Hide in Small-Screen Devices"
+msgstr "Ocultar en dispositivos de pantalla pequeña"
+
+#: inc/core/Options/TopBanner.php:240
+msgid "Set the maximum height allowed for the top banner image in pixels. Default: 150"
+msgstr "Establece la altura máxima permitida para la imagen del banner superior en píxeles. Por defecto: 150"
+
+#: inc/core/Options/TopBanner.php:239
+msgid "Top Banner Maximum Height"
+msgstr "Altura máxima del banner superior"
+
+#: inc/core/Options/TopBanner.php:214
+msgid "Top Banner Shadow Effect"
+msgstr "Efecto de sombra del banner superior"
+
+#: inc/core/Options/TopBanner.php:189
+msgid "Top Banner Link - Open in New Tab"
+msgstr "Enlace del banner superior - Abrir en una pestaña nueva"
+
+#: inc/core/Options/TopBanner.php:164
+msgid "Enter the \"rel\" attribute for the banner link."
+msgstr "Introduce el atributo «rel» para el enlace del banner."
+
+#: inc/core/Options/TopBanner.php:163
+msgid "Top Banner Link - Rel"
+msgstr "Enlace de banner superior - Rel"
+
+#: inc/core/Options/TopBanner.php:138
+msgid "Enter the \"title\" attribute for the banner link."
+msgstr "Introduce el atributo «título» para el enlace del banner."
+
+#: inc/core/Options/TopBanner.php:137
+msgid "Top Banner Link - Title"
+msgstr "Enlace del banner superior - Título"
+
+#: inc/core/Options/TopBanner.php:112
+msgid "Enter the URL for the banner link."
+msgstr "Introduce la URL del enlace del banner."
+
+#: inc/core/Options/TopBanner.php:111
+msgid "Top Banner Link - URL"
+msgstr "Enlace al banner superior - URL"
+
+#: inc/core/Options/TopBanner.php:81
+msgid "Select the top banner image. The theme works best with an image size of 728 x 90 pixels. "
+msgstr "Selecciona la imagen del banner superior. El tema funciona mejor con un tamaño de imagen de 728 x 90 píxeles. "
+
+#: inc/core/Options/TopBanner.php:80
+msgid "Top Banner Image"
+msgstr "Imagen del banner superior"
+
+#: inc/core/Options/TopBanner.php:53
+msgid "You can customize the top banner options in here."
+msgstr "Aquí puedes personalizar las opciones del banner superior."
+
+#: inc/core/Options/TopNavbar.php:96
+msgid "Top Navbar Gradient Background 2"
+msgstr "Fondo degradado 2 de la barra de navegación superior"
+
+#: inc/core/Options/TopNavbar.php:66
+msgid "Top Navbar Gradient Background 1"
+msgstr "Fondo degradado 1 de la barra de navegación superior"
+
+#: inc/core/Options/TopNavbar.php:39
+msgid "You can customize the top navbar options in here."
+msgstr "Aquí puedes personalizar las opciones de la barra de navegación superior."
+
+#: inc/core/Options/TopNavbar.php:38 inc/welcome-page.php:126
+msgid "Top Navbar"
+msgstr "Barra de navegación superior"
+
+#: inc/core/Options/Content.php:115 inc/core/Options/Sidebar.php:184
+msgid "Remove Horizontal Padding"
+msgstr "Eliminar el relleno horizontal"
+
+#: inc/core/Options/Content.php:90 inc/core/Options/Sidebar.php:159
+msgid "Remove Bottom Padding"
+msgstr "Eliminar el relleno inferior"
+
+#: inc/core/Options/Content.php:65 inc/core/Options/Sidebar.php:134
+msgid "Remove Top Padding"
+msgstr "Eliminar el relleno superior"
+
+#: inc/core/Options/Content.php:39
+msgid "You can customize the content layout options in here."
+msgstr "Aquí puedes personalizar las opciones de diseño del contenido."
+
+#: inc/core/Options/Content.php:38
+msgid "Content Layout"
+msgstr "Disposición del contenido"
+
+#: inc/core/Options/BlockSection.php:29 inc/core/Options/TopBanner.php:466
+msgid "Select a block"
+msgstr "Selecciona un bloque"
+
+#: inc/core/Menu.php:68
+msgid "Toggle search form"
+msgstr "Alternar formulario de búsqueda"
+
+#: inc/core/Menu.php:55
+msgid "Toggle sub-menu"
+msgstr "Alternar submenú"
+
+#: inc/core/Menu.php:35
+msgid "Social Links Menu"
+msgstr "Menú de enlaces a redes sociales"
+
+#: inc/core/Menu.php:34 template-parts/header/top-navbar.php:36
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: inc/core/Menu.php:33
+msgid "Primary"
+msgstr "Principal"
+
+#. translators: 1: "Read More" text, 2: Name of current post. Only visible to
+#. screen readers
+#: inc/core/Enhance.php:142
+msgctxt "content more"
+msgid "%1$s<span class=\"screen-reader-text\"> &ldquo;%2$s&rdquo;</span> &raquo;"
+msgstr "%1$s<span class=\"screen-reader-text\"> &ldquo;%2$s&rdquo;</span> &raquo;"
+
+#: inc/core/TemplateTags.php:167
+msgctxt "String to use before the tags for screen readers."
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#. translators: %s: post author
+#: inc/core/TemplateTags.php:104
+msgctxt "post author"
+msgid "<span class=\"screen-reader-text\">By </span>%s"
+msgstr "<span class=\"screen-reader-text\">Por </span>%s"
+
+#. translators: %s: post date
+#: inc/core/TemplateTags.php:65
+msgctxt "post date"
+msgid "<span class=\"screen-reader-text\">Posted on </span>%s"
+msgstr "<span class=\"screen-reader-text\">Publicado el </span>%s"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: inc/core/Scripts.php:78
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inter, translate this to 'off'. Do not translate into your own language.
+#: inc/core/Scripts.php:72
+msgctxt "Inter font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/core/WooCommerce.php:73
+msgid "Shop Sidebar"
+msgstr "Barra lateral de la tienda"
+
+#: inc/core/PageSettings.php:152
+msgid "Force Transparent Background"
+msgstr "Forzar fondo transparente"
+
+#: inc/core/PageSettings.php:147
+msgid "Force Remove Horizontal Padding"
+msgstr "Forzar la eliminación del relleno horizontal"
+
+#: inc/core/PageSettings.php:142
+msgid "Force Remove Bottom Padding"
+msgstr "Forzar la eliminación del relleno inferior"
+
+#: inc/core/PageSettings.php:137
+msgid "Force Remove Top Padding"
+msgstr "Forzar eliminar relleno superior"
+
+#: inc/core/PageSettings.php:133
+msgid "Below settings override customizer settings for page content layout (only if checked)."
+msgstr "Los siguientes ajustes anulan los ajustes del personalizador para el diseño del contenido de la página (sólo si están marcados)."
+
+#: inc/core/PageSettings.php:130
+msgid "Remove Bottom Margin"
+msgstr "Eliminar el margen inferior"
+
+#: inc/core/PageSettings.php:125
+msgid "Remove Top Margin"
+msgstr "Eliminar el margen superior"
+
+#: inc/core/PageSettings.php:120
+msgid "Disable Header Title"
+msgstr "Desactivar título de cabecera"
+
+#: inc/core/PageSettings.php:28
+msgid "PressBook Page Settings"
+msgstr "Ajustes de página de PressBook"
+
+#. translators: %s: footer widgets area number
+#: inc/core/Widget.php:61
+msgid "Footer Widgets Area %s"
+msgstr "Área de widgets de pie de página %s"
+
+#: inc/core/Widget.php:47
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/core/Widget.php:37 inc/core/Widget.php:49 inc/core/Widget.php:63
+#: inc/core/WooCommerce.php:75
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: inc/core/Widget.php:35
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: inc/core/Editor.php:113
+msgctxt "Lato font (in the editor): on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inter, translate this to 'off'. Do not translate into your own language.
+#: inc/core/Editor.php:107
+msgctxt "Inter font (in the editor): on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: %s: WordPress Version.
+#: inc/back-compat.php:28 inc/back-compat.php:43 inc/back-compat.php:64
+msgid "This theme requires WordPress 5.3 or newer. You are running version %s. Please upgrade."
+msgstr "Este tema necesita WordPress 5.3 o superior. Estás ejecutando la versión %s. Por favor, actualiza."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/class-tgm-plugin-activation.php:3525
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/libs/class-tgm-plugin-activation.php:3523
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones se han completado."
+
+#. translators: 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3520
+#: inc/libs/class-tgm-plugin-activation.php:3522
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/libs/class-tgm-plugin-activation.php:3518
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/class-tgm-plugin-activation.php:3515
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/libs/class-tgm-plugin-activation.php:3513
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han terminado."
+
+#. translators: 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3510
+#: inc/libs/class-tgm-plugin-activation.php:3520
+#: inc/libs/class-tgm-plugin-activation.php:3530
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#. translators: 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3510
+#: inc/libs/class-tgm-plugin-activation.php:3520
+#: inc/libs/class-tgm-plugin-activation.php:3530
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#. translators: 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3510
+#: inc/libs/class-tgm-plugin-activation.php:3512
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/libs/class-tgm-plugin-activation.php:3508
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación y activación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3505
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/libs/class-tgm-plugin-activation.php:3503
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error al instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/libs/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "La activación del plugin ha fallado."
+
+#: inc/libs/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Ahora mismo no hay plugins que activar."
+
+#: inc/libs/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se ha realizado ninguna acción."
+
+#: inc/libs/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Ahora mismo no hay plugins que actualizar."
+
+#: inc/libs/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Ahora mismo no hay plugins que instalar."
+
+#: inc/libs/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se ha realizado ninguna acción."
+
+#: inc/libs/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se ha realizado ninguna acción."
+
+#: inc/libs/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/libs/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/libs/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/libs/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/libs/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/libs/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/libs/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/libs/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: inc/libs/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: inc/libs/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/libs/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Origen"
+
+#: inc/libs/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/libs/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins que instalar, actualizar o activar."
+
+#: inc/libs/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/libs/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima necesaria:"
+
+#: inc/libs/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/libs/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/libs/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/libs/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/libs/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: inc/libs/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Actualización necesaria no disponible"
+
+#: inc/libs/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activo"
+
+#: inc/libs/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado, pero no activado"
+
+#: inc/libs/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/libs/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: inc/libs/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/libs/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/libs/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendados"
+
+#: inc/libs/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Obligatorio"
+
+#. translators: %s: version number
+#: inc/libs/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/libs/class-tgm-plugin-activation.php:1121
+#: inc/libs/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/libs/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+
+#: inc/libs/class-tgm-plugin-activation.php:934
+#: inc/libs/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacta con el proveedor del plugin y pídele que empaquete su plugin de acuerdo con las directrices de WordPress."
+
+#: inc/libs/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y renombrarlo no ha funcionado."
+
+#: inc/libs/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: inc/libs/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: inc/libs/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de este sitio para obtener ayuda."
+
+#: inc/libs/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno más plugins necesarios o recomendados pendientes de instalar, actualizar o activar."
+
+#: inc/libs/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/libs/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de  %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya estaba activo."
+
+#: inc/libs/class-tgm-plugin-activation.php:388
+#: inc/libs/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: inc/libs/class-tgm-plugin-activation.php:387
+#: inc/libs/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: inc/libs/class-tgm-plugin-activation.php:386
+#: inc/libs/class-tgm-plugin-activation.php:827
+#: inc/libs/class-tgm-plugin-activation.php:2533
+#: inc/libs/class-tgm-plugin-activation.php:3590
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/libs/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/libs/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar a activar el plugin"
+msgstr[1] "Comenzar a activar los plugins"
+
+#: inc/libs/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: inc/libs/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#. translators: 1: plugin name(s).
+#: inc/libs/class-tgm-plugin-activation.php:365
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/libs/class-tgm-plugin-activation.php:359
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/libs/class-tgm-plugin-activation.php:353
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/libs/class-tgm-plugin-activation.php:347
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin necesita ser actualizado a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins necesitan ser actualizados a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/libs/class-tgm-plugin-activation.php:341
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/libs/class-tgm-plugin-activation.php:335
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: inc/libs/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha ido mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: inc/libs/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar los plugins"
+
+#: inc/libs/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#. translators: %s: theme name
+#: inc/welcome-page.php:249
+msgid "Get started with %s"
+msgstr "Primeros pasos con %s"
+
+#. translators: 1: theme name, 2: welcome page link.
+#: inc/welcome-page.php:236
+msgid "Welcome! Thank you for choosing %1$s theme. To get started, visit our <a href=\"%2$s\">welcome page</a>."
+msgstr "¡Bienvenido/a! Gracias por elegir el tema %1$s. Para empezar, visita nuestra <a href=\"%2$s\">página de bienvenida</a>."
+
+#: inc/welcome-page.php:192
+msgid "When adding or editing a page, there are many page templates to choose from. Also, you can configure the page settings for any specific page. These templates and settings are available on the sidebar area of the page editor screen."
+msgstr "Al añadir o editar una página, puedes elegir entre muchas plantillas de página. Además, puedes configurar los ajustes de página para cualquier página específica. Estas plantillas y ajustes están disponibles en el área de la barra lateral de la pantalla del editor de páginas."
+
+#: inc/welcome-page.php:190
+msgid "Page Template & Page Settings"
+msgstr "Plantilla de página y ajustes de página"
+
+#: inc/welcome-page.php:144
+msgid "You can customize the header image from the Customizer > Header Image and body background image from the Customizer > Background Image. Also, you can change the header and body background color from the Customizer > Colors."
+msgstr "Puedes personalizar la imagen de cabecera desde el «Personalizador > Imagen de cabecera» y la imagen de fondo del cuerpo desde el «Personalizador > Imagen de fondo». También puedes cambiar el color de fondo de la cabecera y del cuerpo desde el «Personalizador > Colores»."
+
+#: inc/welcome-page.php:142
+msgid "Header / Background Color & Image"
+msgstr "Cabecera / Color e imagen de fondo"
+
+#: inc/welcome-page.php:181
+msgid "You can drag and drop widgets to the widget area. PressBook comes with 6 widgets area locations which include a left sidebar, right sidebar, and 4 locations for footer widgets."
+msgstr "Puedes arrastrar y soltar widgets en el área de widgets. PressBook viene con 6 ubicaciones de área de widgets que incluyen una barra lateral izquierda, una barra lateral derecha y 4 ubicaciones para widgets de pie de página."
+
+#: inc/welcome-page.php:179
+msgid "Sidebar & Footer Widgets"
+msgstr "Widgets de barra lateral y pie de página"
+
+#: inc/welcome-page.php:169
+msgid "You can enable the footer block area by creating a block in the pattern block manager. Then select this block in the Customizer > Footer Block. PressBook comes with 1 footer block area."
+msgstr "Puedes activar el área del bloque de pie de página creando un bloque en el gestor de bloques de patrón. A continuación, selecciona este bloque en el Personalizador > Bloque de pie de página. PressBook viene con 1 área de bloque de pie de página."
+
+#: inc/welcome-page.php:155
+msgid "Header Block Area"
+msgstr "Área del bloque de cabecera"
+
+#: inc/core/Options/Upsell.php:46 inc/welcome-page.php:115
+msgid "Get Premium"
+msgstr "Obtener Premium"
+
+#: inc/welcome-page.php:109
+msgid "Unlimited Color Options & Advanced Theme Options"
+msgstr "Opciones de color ilimitadas y opciones de tema avanzadas"
+
+#: inc/welcome-page.php:107
+msgid "Custom Google Fonts for Headings and Body Text"
+msgstr "Fuentes de Google personalizadas para los encabezados y el texto del cuerpo"
+
+#: inc/welcome-page.php:105
+msgid "Custom Gradient Colors for Buttons"
+msgstr "Colores degradados personalizados para los botones"
+
+#: inc/welcome-page.php:104
+msgid "Post Meta, Comment Meta Text Color & Link Color"
+msgstr "Color del meta texto de la entrada, del meta texto del comentario y del enlace"
+
+#: inc/welcome-page.php:103
+msgid "Header, Footer, Content, Sidebars - Dark and Light Schemes"
+msgstr "Cabecera, pie de página, contenido, barras laterales - Esquemas oscuros y claros"
+
+#: inc/welcome-page.php:99
+msgid "Footer Text Color, Link Color & Additional Options"
+msgstr "Color del texto del pie de página, color del enlace y opciones adicionales"
+
+#: inc/welcome-page.php:97
+msgid "3 Footer Block Areas with Multiple Options"
+msgstr "3 áreas de bloque de pie de página con múltiples opciones"
+
+#: inc/welcome-page.php:96
+msgid "4 Header Block Areas with Multiple Options"
+msgstr "4 áreas de bloque de cabecera con múltiples opciones"
+
+#: inc/welcome-page.php:95
+msgid "Content Layout Custom Background Color"
+msgstr "Color del fondo personalizado del diseño de contenido"
+
+#: inc/welcome-page.php:94
+msgid "Sidebar Layout Custom Background Color"
+msgstr "Diseño de la barra lateral color de fondo personalizado"
+
+#: inc/welcome-page.php:93
+msgid "Alpha Transparency Effect with Background Image"
+msgstr "Efecto de transparencia alpha con imagen de fondo"
+
+#: inc/welcome-page.php:92
+msgid "Dark and Light Editor Styles - Block Editor"
+msgstr "Estilos oscuro y claro del editor - Editor de bloques"
+
+#: inc/welcome-page.php:91
+msgid "Dark and Light Color Schemes - Fully Customizable"
+msgstr "Esquemas de colores claros y oscuros - Totalmente personalizables"
+
+#: inc/welcome-page.php:87
+msgid "PressBook Premium comes with additional features:"
+msgstr "PressBook Premium incluye características adicionales:"
+
+#: inc/welcome-page.php:85
+msgid "Premium Version"
+msgstr "Versión premium"
+
+#: inc/welcome-page.php:80
+msgid "Menus"
+msgstr "Menús"
+
+#: inc/welcome-page.php:76
+msgid "You can create a menu and assign it to a menu location. PressBook comes with three menu locations which include the primary menu, top bar menu, and social links menu. For social links, create a menu item with a custom link, enter the URL of the social page, and assign this menu to the \"Social Links Menu\" location."
+msgstr "Puedes crear un menú y asignarlo a una ubicación de menú. PressBook viene con tres ubicaciones de menú que incluyen el menú principal, el menú de la barra superior y el menú de enlaces sociales. Para los enlaces sociales, crea un elemento de menú con un enlace personalizado, introduce la URL de la página social y asigna este menú a la ubicación «Menú de enlaces sociales»."
+
+#: inc/welcome-page.php:74
+msgid "Menus & Social Links"
+msgstr "Menús y enlaces sociales"
+
+#: inc/welcome-page.php:65
+msgid "You can add the top banner image and link from the Customizer > Top Banner."
+msgstr "Puedes añadir la imagen y el enlace del banner superior desde el «Personalizador > Banner superior»."
+
+#: inc/core/Options/TopBanner.php:52 inc/welcome-page.php:63
+#: inc/welcome-page.php:69
+msgid "Top Banner"
+msgstr "Banner superior"
+
+#: inc/welcome-page.php:58
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/welcome-page.php:54
+msgid "You can customize the theme using the theme options available in the customizer."
+msgstr "Puedes personalizar el tema utilizando las opciones de tema disponibles en el personalizador."
+
+#: inc/welcome-page.php:52
+msgid "Customize Theme"
+msgstr "Personalizar el tema"
+
+#. translators: 1: theme name, 2: theme version number
+#: inc/welcome-page.php:38
+msgctxt "menu page heading"
+msgid "%1$s <span>Version %2$s</span>"
+msgstr "%1$s <span>Versión %2$s</span>"
+
+#: inc/welcome-page.php:14
+msgctxt "menu title"
+msgid "PressBook"
+msgstr "PressBook"
+
+#: inc/welcome-page.php:13
+msgctxt "page title"
+msgid "PressBook"
+msgstr "PressBook"
+
+#: template-parts/header/top-navbar.php:18
+msgid "Social Links"
+msgstr "Enlaces sociales"
+
+#: template-parts/header/primary-navbar.php:14
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero nada coincide con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: link to WP admin new post page
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: inc/core/Options/Blog.php:546
+msgctxt "Label for sticky posts"
+msgid "Featured"
+msgstr "Destacada"
+
+#. translators: %s: theme name
+#: template-parts/footer/copyright-text.php:29
+msgctxt "footer credit"
+msgid "%s WordPress theme"
+msgstr "Tema %s para WordPress"
+
+#. translators: %s: theme name with URL
+#: template-parts/footer/copyright-text.php:26
+msgctxt "footer credit"
+msgid "Powered by %s"
+msgstr "Funciona con %s"
+
+#: template-parts/content-page-no-title.php:21
+#: template-parts/content-page.php:25 template-parts/content-single.php:51
+#: template-parts/content.php:59
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. Template Name of the theme
+msgid "Page with sidebar"
+msgstr "Página con barra lateral"
+
+#. Template Name of the theme
+msgid "Large width template"
+msgstr "Plantilla de ancho grande"
+
+#. Template Name of the theme
+msgid "Small width template"
+msgstr "Plantilla de ancho pequeño"
+
+#. Template Name of the theme
+msgid "Full width template"
+msgstr "Plantilla de ancho completo"
+
+#. Template Name of the theme
+msgid "Medium width template"
+msgstr "Plantilla de ancho medio"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: single.php:30
+msgid "Next Post:"
+msgstr "Entrada siguiente:"
+
+#: single.php:28
+msgid "Previous Post:"
+msgstr "Entrada anterior:"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://scriptstown.com/"
+msgstr "https://scriptstown.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ScriptsTown"
+msgstr "ScriptsTown"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://scriptstown.com/wordpress-themes/pressbook/"
+msgstr "https://scriptstown.com/wordpress-themes/pressbook/"

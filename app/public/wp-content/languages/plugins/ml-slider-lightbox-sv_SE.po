@@ -1,0 +1,54 @@
+# Translation of Plugins - MetaSlider Lightbox - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - MetaSlider Lightbox - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-27 12:03:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - MetaSlider Lightbox - Stable (latest release)\n"
+
+#: extendify-sdk/app/Plugin.php:80
+msgid "An unknown error occurred during installation"
+msgstr "Ett okänt fel uppstod under installationen"
+
+#: extendify-sdk/app/Plugin.php:74
+msgid "There was an error installing your plugin"
+msgstr "Det var fel när ditt tillägg installerades"
+
+#: extendify-sdk/app/Plugin.php:55
+msgid "You are not allowed to install plugins on this site."
+msgstr "Du har inte behörighet att installera tillägg på denna webbplats."
+
+#: extendify-sdk/app/Controllers/PluginController.php:53
+#: extendify-sdk/app/Plugin.php:34
+msgid "You are not allowed to activate plugins on this site."
+msgstr "Du har inte behörighet att aktivera tillägg på denna webbplats."
+
+#: class-ml-slider-lightbox.php:411
+msgid "Open in lightbox?"
+msgstr "Öppna i lightbox?"
+
+#: class-ml-slider-lightbox.php:353 class-ml-slider-lightbox.php:397
+msgid "More info"
+msgstr "Mer info"
+
+#. Author of the plugin
+msgid "MetaSlider"
+msgstr "MetaSlider"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.metaslider.com"
+msgstr "https://www.metaslider.com"
+
+#. Plugin Name of the plugin
+msgid "MetaSlider Lightbox"
+msgstr "MetaSlider Lightbox"
+
+#: class-ml-slider-lightbox.php:405
+msgid "Edit settings"
+msgstr "Redigera inställningar"

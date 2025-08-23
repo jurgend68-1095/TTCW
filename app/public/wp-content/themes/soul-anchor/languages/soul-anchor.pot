@@ -1,0 +1,337 @@
+# Copyright (C) 2025 Themes Carts
+# This file is distributed under the GNU General Public License version 2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Soul Anchor 1.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/soul-anchor\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-07-18T09:39:33+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: soul-anchor\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Soul Anchor"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+#: functions.php:31
+msgid "https://www.themescarts.com/product/free-travel-wordpress-theme/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Choosing the right WordPress theme for your blog is crucial to creating an engaging and functional site. A good blog theme should be responsive, ensuring it looks great on all devices, from desktops to smartphones. It should offer a customizable layout, allowing you to tweak colors, fonts, and design elements to align with your brand identity without requiring coding skills. SEO optimization is another vital feature, as it helps improve your blog's visibility on search engines. Fast loading times are essential for retaining visitors, so lightweight themes are ideal. The theme should also support popular plugins like social sharing, SEO tools, and analytics, enhancing your blog's functionality. Navigation plays a key role in user experience, so opt for themes with intuitive menus, breadcrumbs, and search bars. Clean and readable typography is a must, as it ensures your content is easy to digest. Additionally, choose a content-focused design that highlights your articles and makes browsing seamless. Themes like Astra, Hemingway, and Neve are excellent free options, while premium themes like Divi, Soledad, and Newspaper offer advanced customization and features. Before finalizing a theme, preview its demo, check for regular updates, and test its speed to ensure it meets your needs. A well-chosen theme not only enhances your blog's appearance but also improves functionality and reader satisfaction."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Themes Carts"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.themescarts.com/"
+msgstr ""
+
+#: functions.php:30
+msgid "https://www.themescarts.com/products/tour-wordpress-theme/"
+msgstr ""
+
+#: inc/block-patterns.php:18
+msgid "Soul Anchor Patterns"
+msgstr ""
+
+#: inc/block-patterns.php:19
+msgid "Pages"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Soul Anchor Pro"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Buy Pro Theme"
+msgstr ""
+
+#: inc/patterns/footer-default.php:6
+msgid "Default footer"
+msgstr ""
+
+#: inc/patterns/header-banner.php:6
+msgid "Header Banner"
+msgstr ""
+
+#: inc/patterns/header-default.php:6
+msgid "Default Header"
+msgstr ""
+
+#: inc/patterns/hidden-404.php:6
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/patterns/inner-banner.php:6
+msgid "Inner Banner"
+msgstr ""
+
+#: inc/patterns/latest-blog.php:6
+msgid "Latest Blogs"
+msgstr ""
+
+#: inc/patterns/sidebar.php:6
+msgid "Sidebar"
+msgstr ""
+
+#: inc/soul-anchor-theme-info-page/templates/class-theme-notice.php:93
+msgid "Theme Notice Image"
+msgstr ""
+
+#. translators: %s is the theme name
+#: inc/soul-anchor-theme-info-page/templates/class-theme-notice.php:109
+msgid "Thank you for installing %s!"
+msgstr ""
+
+#: inc/soul-anchor-theme-info-page/templates/class-theme-notice.php:121
+#: inc/soul-anchor-theme-info-page/templates/class-theme-notice.php:126
+msgid "ThemesCarts"
+msgstr ""
+
+#. translators: %1$s: Author Name, %2$s: Link
+#: inc/soul-anchor-theme-info-page/templates/class-theme-notice.php:125
+msgid "Unlock the full potential of your new store with %1$s! Get started today by visiting %2$s to explore a wide range of ready-to-use patterns and demo templates, designed to enhance your online shopping experience."
+msgstr ""
+
+#: inc/soul-anchor-theme-info-page/templates/class-theme-notice.php:141
+msgid "Click Here For Theme Info"
+msgstr ""
+
+#: inc/soul-anchor-theme-info-page/templates/class-theme-notice.php:145
+msgid "Dismiss"
+msgstr ""
+
+#: inc/soul-anchor-theme-info-page/templates/theme-details.php:25
+msgid "Your Ultimate Block Theme"
+msgstr ""
+
+#: inc/soul-anchor-theme-info-page/templates/theme-details.php:28
+msgid "Version:-"
+msgstr ""
+
+#: inc/soul-anchor-theme-info-page/templates/theme-details.php:42
+msgid "View Live Demo"
+msgstr ""
+
+#: inc/soul-anchor-theme-info-page/templates/theme-details.php:47
+msgid "Free Documentaion"
+msgstr ""
+
+#: inc/soul-anchor-theme-info-page/templates/theme-details.php:60
+msgid "Hello"
+msgstr ""
+
+#: inc/soul-anchor-theme-info-page/templates/theme-details.php:61
+msgid "Welcome to"
+msgstr ""
+
+#: inc/soul-anchor-theme-info-page/templates/theme-details.php:61
+msgid "Free"
+msgstr ""
+
+#: inc/soul-anchor-theme-info-page/templates/theme-details.php:64
+msgid " ensures your website looks exceptional, offering a smooth and engaging experience. With its stylish design and intuitive layout, it’s crafted to provide seamless navigation, whether you're showcasing destinations, itineraries, or booking options."
+msgstr ""
+
+#: inc/soul-anchor-theme-info-page/templates/theme-details.php:66
+msgid " theme enhances your site’s appeal with user-friendly functionality."
+msgstr ""
+
+#: styles/citrus-edge.json
+msgctxt "Style variation name"
+msgid "Citrus-Edge"
+msgstr ""
+
+#: styles/citrus-edge.json
+#: styles/graphite-focus.json
+#: styles/green-cyan.json
+#: styles/neo-mint.json
+#: styles/ocean-glass.json
+#: styles/sunset-hue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/citrus-edge.json
+#: styles/graphite-focus.json
+#: styles/green-cyan.json
+#: styles/neo-mint.json
+#: styles/ocean-glass.json
+#: styles/sunset-hue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/citrus-edge.json
+#: styles/graphite-focus.json
+#: styles/green-cyan.json
+#: styles/neo-mint.json
+#: styles/ocean-glass.json
+#: styles/sunset-hue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Extra Primary"
+msgstr ""
+
+#: styles/citrus-edge.json
+#: styles/graphite-focus.json
+#: styles/green-cyan.json
+#: styles/neo-mint.json
+#: styles/ocean-glass.json
+#: styles/sunset-hue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/citrus-edge.json
+#: styles/graphite-focus.json
+#: styles/green-cyan.json
+#: styles/neo-mint.json
+#: styles/ocean-glass.json
+#: styles/sunset-hue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/graphite-focus.json
+msgctxt "Style variation name"
+msgid "Graphite-Focus"
+msgstr ""
+
+#: styles/green-cyan.json
+msgctxt "Style variation name"
+msgid "Green-Cyan"
+msgstr ""
+
+#: styles/neo-mint.json
+msgctxt "Style variation name"
+msgid "Neo-Mint"
+msgstr ""
+
+#: styles/ocean-glass.json
+msgctxt "Style variation name"
+msgid "Ocean-Glass"
+msgstr ""
+
+#: styles/sunset-hue.json
+msgctxt "Style variation name"
+msgid "Sunset-Hue"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Front Page"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pages (Full Width)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pages (Left Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pages (Without Header Image)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Link and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Link and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr ""

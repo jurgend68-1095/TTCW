@@ -1,0 +1,32 @@
+# Translation of Themes - Dark Mode for A. in Portuguese (Portugal)
+# This file is distributed under the same license as the Themes - Dark Mode for A. package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-27 14:34:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: pt\n"
+"Project-Id-Version: Themes - Dark Mode for A.\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Dark mode for Astra. This child theme is fully compatible with both Astra and Astra Pro."
+msgstr "Modo escuro para o Astra. Este tema dependente é totalmente compatível com o Astra e com o Astra Pro."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Dark Mode for A."
+msgstr "Dark Mode for A."
+
+#: functions.php:14
+msgid "Ⓧ"
+msgstr "Ⓧ"
+
+#: functions.php:14
+msgid "<big><strong>🚀 Want even more features?</strong></big>"
+msgstr "<big><strong>🚀 Quer ainda mais funcionalidades? </strong></big>"
