@@ -9,10 +9,12 @@
 	<xsl:output method="html" encoding="UTF-8" indent="yes" />
 
 	<!--
-	  Set variables for whether lastmod occurs for any sitemap in the index.
+	  Set variables for whether lastmod, changefreq or priority occur for any url in the sitemap.
 	  We do this up front because it can be expensive in a large sitemap.
 	  -->
-	<xsl:variable name="has-lastmod" select="count( /sitemap:sitemapindex/sitemap:sitemap/sitemap:lastmod )" />
+	<xsl:variable name="has-lastmod"    select="count( /sitemap:urlset/sitemap:url/sitemap:lastmod )"    />
+	<xsl:variable name="has-changefreq" select="count( /sitemap:urlset/sitemap:url/sitemap:changefreq )" />
+	<xsl:variable name="has-priority"   select="count( /sitemap:urlset/sitemap:url/sitemap:priority )"   />
 
 	<xsl:template match="/">
 		<html lang="nl-NL">
@@ -72,7 +74,7 @@
 						<p><a href="https://www.sitemaps.org/">Lees verder over XML sitemaps.</a></p>
 					</div>
 					<div id="sitemap__content">
-						<p class="text">Aantal URL’s in deze XML-sitemap: <xsl:value-of select="count( sitemap:sitemapindex/sitemap:sitemap )" />.</p>
+						<p class="text">Aantal URL’s in deze XML-sitemap: <xsl:value-of select="count( sitemap:urlset/sitemap:url )" />.</p>
 						<table id="sitemap__table">
 							<thead>
 								<tr>
@@ -80,14 +82,26 @@
 									<xsl:if test="$has-lastmod">
 										<th class="lastmod">Laatst gewijzigd</th>
 									</xsl:if>
+									<xsl:if test="$has-changefreq">
+										<th class="changefreq">Frequentie wijzigen</th>
+									</xsl:if>
+									<xsl:if test="$has-priority">
+										<th class="priority">Prioriteit</th>
+									</xsl:if>
 								</tr>
 							</thead>
 							<tbody>
-								<xsl:for-each select="sitemap:sitemapindex/sitemap:sitemap">
+								<xsl:for-each select="sitemap:urlset/sitemap:url">
 									<tr>
 										<td class="loc"><a href="{sitemap:loc}"><xsl:value-of select="sitemap:loc" /></a></td>
 										<xsl:if test="$has-lastmod">
 											<td class="lastmod"><xsl:value-of select="sitemap:lastmod" /></td>
+										</xsl:if>
+										<xsl:if test="$has-changefreq">
+											<td class="changefreq"><xsl:value-of select="sitemap:changefreq" /></td>
+										</xsl:if>
+										<xsl:if test="$has-priority">
+											<td class="priority"><xsl:value-of select="sitemap:priority" /></td>
 										</xsl:if>
 									</tr>
 								</xsl:for-each>
